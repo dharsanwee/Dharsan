@@ -72,19 +72,13 @@ p, h1, h2, h3, h4 {
 
 .blogs-images {
     border-radius: 200px;
-    width: 300px;
+    width: 250px;
     transform: rotate(270deg);
 }
 
-.first-img {
-    width: 500px;
-    padding-top: 20px;
-    border-radius: 30px;
-    height: 800px;
 
-}
 .echo-img {
-    width: 500px;
+    width: 450px;
     padding-top: 20px;
     border-radius: 30px;
 
